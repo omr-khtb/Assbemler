@@ -1,0 +1,8 @@
+     ORG  100
+     LDA  Y
+     BUN X I
+     INC
+     CMA
+X, DEC 20
+Y, DEC 00
+     END
